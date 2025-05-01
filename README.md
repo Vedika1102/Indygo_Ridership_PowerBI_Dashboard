@@ -26,7 +26,7 @@ This dashboard was created to bridge that gap by:
 - **Timeframe**: 2023–2024
 - **Format**: CSVs + Data Dictionary
 
-## 🧠 Power BI Logic
+## Power BI Logic
 - DAX Measures: `Total Ridership`, `Ridership Last Week`, `Ridership by Day`
 - Calculated Columns: `Route Display Name`, `Week Number`
 - Relationships: Star schema with fact/dimension model
