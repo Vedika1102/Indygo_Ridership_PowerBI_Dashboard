@@ -1,6 +1,10 @@
 # Indygo Ridership PowerBI Dashboard
 
 This project was developed for the Information Visualization course at Indiana University in collaboration with IndyGo.
+![Ridership Dashboard](https://github.com/user-attachments/assets/61177538-1bb7-4f61-8b9c-b1f6e34d0983)
+![RouteLevel](https://github.com/user-attachments/assets/a01085a8-3cc7-4c7e-8966-e08eae9a0df4)
+
+
 
 ## Objective
 
