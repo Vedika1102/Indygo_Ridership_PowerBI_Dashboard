@@ -11,7 +11,7 @@ Link to dashboard: https://indiana-my.sharepoint.com/:u:/g/personal/ggattani_iu_
 
 The primary objective of this project was to design and implement a comprehensive **Ridership Dashboard** for **IndyGo** as a foundational step toward a larger **open data platform initiative**. 
 
-Public transit agencies, including IndyGo, face growing pressure to become more transparent, data-informed, and responsive to community needs. However, much of their operational data—though collected—is underutilized or inaccessible to stakeholders and the public.
+Public transit agencies, including IndyGo, face growing pressure to become more transparent, data-informed, and responsive to community needs. However, much of their operational data, though collected is underutilized or inaccessible to stakeholders and the public.
 
 This dashboard was created to bridge that gap by:
 
